@@ -1,4 +1,4 @@
-# DranAndDropRectApplication_Eclipse
+# DragAndDropRectApplication_Eclipse
 Eclipse-версия проекта [DragAndDropRectApplication](https://github.com/MyITschool/DragAndDropRectApplication)
 
 Приложение позволяет создавать, удалять и перетаскивать квадратики по экрану.
