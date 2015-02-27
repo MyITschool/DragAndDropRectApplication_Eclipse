@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drag and Drop Rect Application</string>
+    <string name="message">Долгое нажатие добавит или удалит элемент</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
